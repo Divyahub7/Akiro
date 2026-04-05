@@ -496,10 +496,10 @@ Phase 10 ──────  Optimization & Scaling              [Ongoing]
       <b>Divya</b><br/>
       <a href="https://github.com/Divya">@Divyahub7</a>
     </td>
-    <!-- <td align="center">
-      <b>Teammate Name</b><br/>
-      <a href="https://github.com/teammate-handle">@teammate-handle</a>
-    </td> -->
+    <td align="center">
+      <b>Roshan Kumar Jha</b><br/>
+      <a href="https://github.com/Roshan850">@Roshan850</a>
+    </td>
   </tr>
 </table>
 
