@@ -494,8 +494,8 @@ Phase 10 ──────  Optimization & Scaling              [Ongoing]
 <table>
   <tr>
     <td align="center">
-      <b>Your Name</b><br/>
-      <a href="https://github.com/Divya">@Divya</a>
+      <b>Divya</b><br/>
+      <a href="https://github.com/Divya">@Divyahub7</a>
     </td>
     <!-- <td align="center">
       <b>Teammate Name</b><br/>
@@ -503,14 +503,6 @@ Phase 10 ──────  Optimization & Scaling              [Ongoing]
     </td> -->
   </tr>
 </table>
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
   <sub>Built with ❤️ by the Akiro team</sub>
