@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 logs
 
 .env
@@ -24,3 +25,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+node_modules/
+client/node_modules/
+server/node_modules/
+.env
+client/.env
+server/.env
+client/dist/
+client/build/
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.vscode/
+.idea/
+>>>>>>> dev
