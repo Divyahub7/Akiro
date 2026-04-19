@@ -1,0 +1,17 @@
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{0}: reset: moving to 9371534
+[33m34d2e51[m HEAD@{1}: commit: Clean commit without secrets
+[33m799dbb3[m HEAD@{2}: reset: moving to HEAD~1
+[33m97f12a1[m HEAD@{3}: commit: Remove .env and add to gitignore
+[33m799dbb3[m HEAD@{4}: commit: Member 1: Authentication module AND Member 1: Profile & Dashboard module AND feature/m1-resume-analyzer Member 1: Resume Analyzer (AI) module
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{5}: checkout: moving from Roshan to feature/m1-auth
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{6}: checkout: moving from dev to Roshan
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{7}: checkout: moving from 93715347ca62b80d4da23e2e69bee54cff3f0274 to dev
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{8}: checkout: moving from dev to feature/m1-auth
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{9}: checkout: moving from feature/m1-auth to dev
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{10}: checkout: moving from dev to feature/m1-auth
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{11}: checkout: moving from feature/dashboard to dev
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{12}: checkout: moving from feature/auth to feature/dashboard
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{13}: checkout: moving from dev to feature/auth
+[33m9371534[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/m1-auth[m[33m, [m[1;31morigin/feature/m1-auth[m[33m, [m[1;32mdev[m[33m, [m[1;32mRoshan[m[33m)[m HEAD@{14}: checkout: moving from main to dev
+[33m6ad0b15[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{15}: pull: Fast-forward
+[33m2b02b7e[m HEAD@{16}: clone: from https://github.com/Divyahub7/Akiro.git
